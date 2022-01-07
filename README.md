@@ -10,6 +10,8 @@ shellFish
 g++ shellFish.cpp -o shellFish && ./shellFish
 ```
 
+### Go through the `Slides Project.pptx`. The screenshot of commands and working of them are described there. 
+
 ### Commands
 ```
 echo $$
